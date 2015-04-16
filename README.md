@@ -1,0 +1,2 @@
+# Aument_1016_Shader_Sandbox_Port_3
+Port of  GLSL Sandbox and Shadertoy, new shaders can be added as files. Portions of the code are from patriciogonzalezvivo/ofxComposer. I added a bunch of stuff including the file input. The shaders themselves come from Shadertoy and I don't claim to have programmed them myself, some are commented on by their authors. You should contact their authors for any other use.
